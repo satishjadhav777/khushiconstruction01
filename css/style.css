@@ -78,8 +78,10 @@ a:focus {
 /**********************************/
 .top-bar {
     position: relative;
-    height: 90px;
+    height: auto;
     background: #fdbe33;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .top-bar .logo {
